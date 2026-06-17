@@ -5,3 +5,4 @@
 :- use_module(tda_attack).
 
 % Aquí se dispondrán más adelante los predicados requeridos del sistema (initGame, playToBench, etc.)
+.
