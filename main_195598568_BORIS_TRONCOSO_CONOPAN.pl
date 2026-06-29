@@ -27,3 +27,4 @@
 % Aquí se dispondrán más adelante los predicados de ejecución si se requieren
 
 .
+.
